@@ -1,4 +1,4 @@
-![Vue App example with Kobble Authentication for SPA](https://github.com/kobble-io/vue-auth-example/blob/main/.readme/banner.png?raw=true)
+![Vue App example with Kobble Authentication for SPA](https://github.com/kobble-io/vue-auth-example/blob/main/.readme/banner-with-screen.png?raw=true)
 
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/:status-stable-green.svg?style=flat)
@@ -8,6 +8,8 @@ This template will get you started developing with Vue 3 in Vite with Kobble SDK
 
 It uses vue-router, pinia and [@kobbleio/auth-spa-js SDK](https://github.com/kobble-io/auth-spa-js).
 
+_[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)_
+_[![Preview](https://github.com/kobble-io/vue-auth-example/blob/main/.readme/preview-btn.svg?raw=true)](https://vue-auth-example.vercel.app)_
 
 ## Getting Started
 
@@ -63,8 +65,6 @@ VITE_KOBBLE_REDIRECT_URI=http://localhost:4000/callback
 ### Raise an issue
 
 To provide feedback or report a bug, please [raise an issue on our issue tracker](https://github.com/kobble-io/vue-auth-example/issues).
-
-___
 
 ## What is Kobble?
 
