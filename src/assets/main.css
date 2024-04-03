@@ -1,0 +1,7 @@
+@import './base.css';
+
+body {
+  min-height: 100vh;
+  background: url("./img/bg-frame.svg") no-repeat center center;
+  background-size: cover;
+}
