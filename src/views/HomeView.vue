@@ -49,7 +49,9 @@ const store = useKobbleStore()
 
 <template>
   <div class="flex flex-col justify-between items-center w-full">
-    <div class="flex justify-between items-center max-w-full w-[1080px] pt-20 px-10">
+    <div
+      class="flex gap-5 flex-col md:flex-row justify-between items-center max-w-full w-[1080px] pt-20 px-10"
+    >
       <div class="rounded-full border border-[#3b3b3b] bg-[#1f1f1f] text-[#fbfbfb] py-3 px-5">
         Get started by editing <code class="font-semibold">src/views/HomeView.vue</code>
       </div>
