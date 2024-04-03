@@ -8,7 +8,7 @@ This template will get you started developing with Vue 3 in Vite with Kobble SDK
 
 It uses vue-router, pinia and [@kobbleio/auth-spa-js SDK](https://github.com/kobble-io/auth-spa-js).
 
-_[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)_
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkobble-io%2Fvue-auth-example&env=VITE_KOBBLE_DOMAIN,VITE_KOBBLE_CLIENT_ID,VITE_KOBBLE_REDIRECT_URI&envDescription=These%20variables%20can%20be%20obtained%20from%20your%20dashboard%20at%20Kobble.io%20after%20configuring%20your%20new%20OAuth%20Application.&envLink=https%3A%2F%2Fdocs.kobble.io%2Fproduct%2Fauthentication%2Foverview&demo-title=Vue%20Auth%20Example&demo-description=Example%20Vue%203%20application%20including%20Kobble%20Authentication%20SDK%2C%20Pinia%2C%20vue-router%20and%20Tailwind.&demo-url=https%3A%2F%2Fvue-auth-example.vercel.app&demo-image=https%3A%2F%2Fgithub.com%2Fkobble-io%2Fvue-auth-example%2Fblob%2Fmain%2F.readme%2Fscreenshot.png%3Fraw%3Dtrue)
 _[![Preview](https://github.com/kobble-io/vue-auth-example/blob/main/.readme/preview-btn.svg?raw=true)](https://vue-auth-example.vercel.app)_
 
 ## Getting Started
